@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/home" android:visible="true" android:title="Home"/>
+    <item android:id="@+id/moreApp" android:visible="true" android:title="More Apps"/>
+    <item android:id="@+id/rateUs" android:visible="true" android:title="Rate Us"/>
+    <item android:id="@+id/aboutUs" android:visible="true" android:title="About"/>
+</menu>

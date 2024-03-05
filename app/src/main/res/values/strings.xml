@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Note</string>
+    <string name="floatingBtnDisc">Add new note</string>
+    <string name="about_summary">Welcome to Note, the ultimate note-taking companion designed to bring simplicity and efficiency to your daily life. Whether you are a student, professional, or anyone looking to organize their thoughts, ideas, and tasks, our app is here to make note-taking a breeze.</string>
+</resources>
